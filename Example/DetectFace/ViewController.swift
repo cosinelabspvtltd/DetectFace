@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import DetectFace
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let str = Service.doSomething()
+        print(str);
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 

@@ -1,0 +1,16 @@
+PODS:
+  - DetectFace (0.1.0)
+
+DEPENDENCIES:
+  - DetectFace (from `../`)
+
+EXTERNAL SOURCES:
+  DetectFace:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DetectFace: 7d2696318feef18b06580a31e9c96eb3243bd01e
+
+PODFILE CHECKSUM: 4d9216c6aa2bf96aeef4bae9079d678de4706fcf
+
+COCOAPODS: 1.6.0.beta.2

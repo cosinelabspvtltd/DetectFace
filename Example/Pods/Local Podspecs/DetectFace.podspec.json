@@ -1,0 +1,27 @@
+{
+  "name": "DetectFace",
+  "version": "0.1.0",
+  "summary": "A short description of DetectFace.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cosinelabspvtltd/DetectFace",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "debayanbhattacharya": "subhajit.mondal@cosinelabs.com"
+  },
+  "source": {
+    "git": "https://github.com/cosinelabspvtltd/DetectFace.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DetectFace/Classes/**/*",
+  "resource_bundles": {
+    "DetectFace": [
+      "DetectFace/Assets/*.png"
+    ]
+  }
+}
